@@ -87,7 +87,7 @@ nav li:first-child {
 
 header {
     height: 92vh;
-    background-image: url(images/main-photo-2.jpg);
+    background-image: url(https://wallpapercave.com/wp/I2fII8e.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -215,3 +215,33 @@ button a {
         width: 100%;
     }
 }
+.services{
+    height:1000px;
+    background-color: #8c99ad;
+}
+  
+.btn{
+    margin-top:60px;
+    padding:10px 20px;
+    background-color: #20345b;
+    color: rgb(164, 148, 189);
+    border: none;
+    cursor: pointer;
+    font-family: "Gowun Batang", serif;
+  font-weight: 400;
+  font-style: normal;
+    transition: 0.5s;
+}
+
+.Launch{
+   padding-top:10px;
+    font-size: 55px;
+    font-weight: bold;
+    font-family: poppins,sans-serif;
+    color:#3f5d9b;
+    text-align: center;
+    overflow: hidden;
+    
+}
+
+
